@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <Title>Throttle</Title>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <LangVersion>8.0</LangVersion>
     <PackageId>Throttle</PackageId>
@@ -9,11 +10,13 @@
     <Description>Throttle multiple asynchronous functions</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>icon.png</PackageIcon>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Giancarl021/Throttle.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Giancarl021/Throttle</PackageProjectUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="All"/>
     <None Include="LICENSE" Pack="true" PackagePath=""/>
     <None Include="assets/icon.png" Pack="true" PackagePath=""/>
   </ItemGroup>

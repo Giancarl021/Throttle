@@ -1,12 +1,10 @@
 # Throttle
 
-![](assets/icon.png)
-
 Throttle multiple asynchronous functions
 
-## Installation
+## Repository
 
-You can get the package on the [Nuget]() website.
+The source code is available on [GitHub](https://github.com/Giancarl021/Throttle).
 
 ### Usage
 
