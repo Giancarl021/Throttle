@@ -6,7 +6,7 @@ Throttle multiple asynchronous functions
 
 ## Installation
 
-You can get the package on the [Nuget]() website.
+You can get the package on the [Nuget](https://www.nuget.org/packages/Throttle/) website.
 
 ### Usage
 
